@@ -3,3 +3,9 @@
 - 🌱 I’m currently learning Python and C languages.
 - 💞️ I’m looking to collaborate on new ideas and projects. 
 - 📫 How to reach me: lucas.m.eich83@gmail.com
+
+My GitHub stats:  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMallmannEich)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMallmannEich&show_icons=true&theme=radical)
