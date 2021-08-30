@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lucas Mallmann Eich and I'm 16 years old.
+- 👀 I’m interested in working with Machine Learning, Data Science and Web Development.
+- 🌱 I’m currently learning Python and C languages.
+- 💞️ I’m looking to collaborate on new ideas and projects. 
+- 📫 How to reach me: lucas.m.eich83@gmail.com
