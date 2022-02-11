@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas Mallmann Eich and I'm 17 years old.
-- 👀 I’m interested in working with Process Automation and Web Development.
+- 👀 I’m interested in working with Process Automation and Web Development (mostly Backend).
 - 🌱 I’m currently learning Python and C languages.
 - :computer::hot_pepper: I'm also taking an especial look to Arduino and Flask.
 - 💞️ I’m looking to collaborate on new ideas and projects. 
