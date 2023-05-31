@@ -7,6 +7,6 @@
 - :mailbox_with_mail: lucas.m.eich83@gmail.com
 
 ## Connect with me on Linkedin   
-  <a href="https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/lucas-mallmann-eich-121389273/)">
+  <a href="https://www.linkedin.com/in/lucas-mallmann-eich-121389273">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
