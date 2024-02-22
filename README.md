@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I’m Lucas Mallmann Eich and I'm 18 years old.
+- 👋 Hi, I’m Lucas Mallmann Eich and I'm 19 years old.
 - 👀 I’m interested in working with Web Development (mostly Backend).
 - 🌱 I’m currently learning the Django framework.
 - :books: I'm also taking an especial look at Databases, such as SQLite, MySQL and PostgreSQL.
